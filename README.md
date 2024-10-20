@@ -10,8 +10,8 @@ Python-based tool that transforms Excel spreadsheet data into an easy-to-read gr
 - **User-Friendly Interface**: The application is designed to be intuitive, allowing quick access to the data without having to search through Excel files for relevant information.
 
 ## Screenshots
-![Main Interface](screenshots/screenshot1.png)
-![Shift Information](screenshots/screenshot2.png)
-![Shift Information](screenshots/screenshot3.png)
-![Shift Information](screenshots/screenshot4.png)
+![Main Interface](Screenshots/screenshot1.png)
+![Shift Information](Screenshots/screenshot2.png)
+![Shift Information](Screenshots/screenshot3.png)
+![Shift Information](Screenshots/screenshot4.png)
 

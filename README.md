@@ -15,3 +15,7 @@ Python-based tool that transforms Excel spreadsheet data into an easy-to-read gr
 ![Breaks Information](screenshots/screenshot2.png)
 ![Notes Information](screenshots/screenshot3.png)
 ![Excel data example](screenshots/screenshot4.png)
+
+Demo video
+
+[Download the demo video](https://github.com/foster-s18/Talk-To-Santa/raw/main/video/demo.mp4)

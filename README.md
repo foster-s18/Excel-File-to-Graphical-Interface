@@ -18,4 +18,4 @@ Python-based tool that transforms Excel spreadsheet data into an easy-to-read gr
 
 Demo video
 
-[Download the demo video](https://github.com/foster-s18/Excel-File-to-Graphical-Interface/raw/refs/heads/main/video/demo.mp4)
+[Download](https://github.com/foster-s18/Excel-File-to-Graphical-Interface/raw/refs/heads/main/video/demo.mp4)

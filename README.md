@@ -13,5 +13,5 @@ Python-based tool that transforms Excel spreadsheet data into an easy-to-read gr
 ![Main Interface](Screenshots/screenshot1.png)
 ![Shift Information](Screenshots/screenshot3.png)
 ![Shift Information](Screenshots/screenshot2.png)
-![Shift Information](Screenshots/screenshot4.png)
+
 

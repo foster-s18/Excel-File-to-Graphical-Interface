@@ -1,5 +1,5 @@
 # Excel File to Graphical Interface
-**Important Note**: The spreadsheet used in this project has been populated with fictional data for demonstration purposes only.
+**/*Important Note**: The spreadsheet used in this project has been populated with fictional data for demonstration purposes only.
 
 Python-based tool that transforms Excel spreadsheet data into an easy-to-read graphical interface. Originally developed as a personal work-related project with permission from my employer, it aims to save time and improve efficiency when searching for shift timings, grades, break details and other criteria.  This helps me when manually creating vacancies for shifts using schedulding software when I am unfamilar with the clients information. Instead of manually searching through an Excel file, the tool offers a convenient GUI to quickly access relevant information.
 
